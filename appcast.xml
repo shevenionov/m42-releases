@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>M42</title>
+    <item>
+      <title>0.1</title>
+      <pubDate>Thu, 12 Nov 2026 22:06:13 +0000</pubDate>
+      <sparkle:version>202611121405</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The first public build of M42</li></ul>]]></description>
+      <enclosure url="https://github.com/shevenionov/m42-releases/releases/download/v0.1-202611121405/M42.zip" length="4208670" type="application/octet-stream" sparkle:edSignature="eActOawKawYNIDZBNixlF2bqdgYJ6vMAcCpDEpnRfV+tuQezf6d1Q2OdE2aKbR4o8Sbu8m9cwB174TvA1V62CQ=="/>
+    </item>
+  </channel>
+</rss>
