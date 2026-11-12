@@ -5,6 +5,16 @@ Downloads for M42, a Mac app for collecting visual references.
 This repository holds only what the app downloads or what you install: builds of the app, and the model
 it uses for search. The app's source is not here.
 
+## Download
+
+**[Download M42 for Mac](https://github.com/shevenionov/m42-releases/releases/latest/download/M42.dmg)**
+
+Open the disk image and drag M42 into Applications. It needs macOS 27 or later.
+
+M42 keeps itself up to date: it checks here for newer builds and offers to install them. To check right
+away, choose M42 ▸ Check for Updates…. Every build is listed under
+[Releases](https://github.com/shevenionov/m42-releases/releases); the ones named `M42 …` are the app.
+
 ## Search model
 
 M42 searches by what a reference shows ("mountains", "similar to this") with a model that runs on your
