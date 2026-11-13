@@ -33,3 +33,16 @@ M42 downloads it once, on first launch. The releases named `search-model-N` each
 SigLIP 2 is licensed under the Apache License 2.0, and so is this converted copy: see
 [LICENSE-search-model.txt](LICENSE-search-model.txt). The original weights are Google's; the changes
 listed above are M42's.
+
+## ffmpeg
+
+M42 can save the video behind a pasted link. The tools that do that are not part of the app; it asks
+first, then downloads them. Two come straight from their makers ([yt-dlp](https://github.com/yt-dlp/yt-dlp)
+and [Deno](https://github.com/denoland/deno)). The third is here: the releases named `ffmpeg-N` each carry
+one file, `m42-ffmpeg-N.zip`.
+
+It is [FFmpeg](https://ffmpeg.org), unmodified, compiled for Apple silicon Macs with only the parts M42
+uses (joining a video's picture and sound into one file). It is licensed under the GNU Lesser General
+Public License, version 2.1 or later. Each zip contains the licence and a note with the address and
+checksum of the source it was built from and the options it was configured with; the same is in each
+release's description.
