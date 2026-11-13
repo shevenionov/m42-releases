@@ -3,13 +3,13 @@
   <channel>
     <title>M42</title>
     <item>
-      <title>0.2</title>
-      <pubDate>Fri, 13 Nov 2026 01:25:58 +0000</pubDate>
-      <sparkle:version>202611121724</sparkle:version>
-      <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+      <title>0.3</title>
+      <pubDate>Fri, 13 Nov 2026 19:31:31 +0000</pubDate>
+      <sparkle:version>202611131129</sparkle:version>
+      <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Save the video behind a pasted link, from YouTube, X, Vimeo, TikTok and Instagram</li><li>Drag references out to Finder and other apps</li><li>The selection outline is easier to see on dark pictures</li></ul>]]></description>
-      <enclosure url="https://github.com/shevenionov/m42-releases/releases/download/v0.2-202611121724/M42.zip" length="4416619" type="application/octet-stream" sparkle:edSignature="S8B5XUgB5DCtRyPzWJJzy7q7LlWfYAq+2n0fU55/s8tX2kGRxle9EYc0VhoPiG4ceYI7Qeq7PaCve7I+/NneAQ=="/>
+      <description><![CDATA[<ul><li>Fixes a freeze when opening a reference</li><li>An open reference has its controls in the toolbar, and the inspector shows the post it came from</li><li>Each view keeps its own zoom, and the canvas zooms much further in and out</li><li>Right-click a video to set its thumbnail or copy the frame under the pointer</li></ul>]]></description>
+      <enclosure url="https://github.com/shevenionov/m42-releases/releases/download/v0.3-202611131129/M42.zip" length="4490158" type="application/octet-stream" sparkle:edSignature="ITKwgb++318imAdlGzNGct5BLnfOLfW/2kQ37hArR0NBZqyFt3wSySLmhwlkio3EIf0aNKyKPKUE/fDQOThRAg=="/>
     </item>
   </channel>
 </rss>
