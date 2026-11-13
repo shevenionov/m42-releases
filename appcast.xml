@@ -3,13 +3,13 @@
   <channel>
     <title>M42</title>
     <item>
-      <title>0.3</title>
-      <pubDate>Fri, 13 Nov 2026 19:31:31 +0000</pubDate>
-      <sparkle:version>202611131129</sparkle:version>
-      <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+      <title>0.3.1</title>
+      <pubDate>Fri, 13 Nov 2026 19:49:29 +0000</pubDate>
+      <sparkle:version>202611131148</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Fixes a freeze when opening a reference</li><li>An open reference has its controls in the toolbar, and the inspector shows the post it came from</li><li>Each view keeps its own zoom, and the canvas zooms much further in and out</li><li>Right-click a video to set its thumbnail or copy the frame under the pointer</li></ul>]]></description>
-      <enclosure url="https://github.com/shevenionov/m42-releases/releases/download/v0.3-202611131129/M42.zip" length="4490158" type="application/octet-stream" sparkle:edSignature="ITKwgb++318imAdlGzNGct5BLnfOLfW/2kQ37hArR0NBZqyFt3wSySLmhwlkio3EIf0aNKyKPKUE/fDQOThRAg=="/>
+      <description><![CDATA[<ul><li>M42 now looks for an update every time it opens, instead of once a day</li></ul>]]></description>
+      <enclosure url="https://github.com/shevenionov/m42-releases/releases/download/v0.3.1-202611131148/M42.zip" length="4491947" type="application/octet-stream" sparkle:edSignature="wkYld4BB47mx/l2ACfLjp/+imgIP31tC6poCQQXtQv9cQzYGevqrmGZCTcitFaNuRZeQdbctH9wr3BfzU7CrCg=="/>
     </item>
   </channel>
 </rss>
