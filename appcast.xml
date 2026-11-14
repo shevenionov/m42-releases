@@ -3,13 +3,13 @@
   <channel>
     <title>M42</title>
     <item>
-      <title>0.3.2</title>
-      <pubDate>Fri, 13 Nov 2026 20:48:22 +0000</pubDate>
-      <sparkle:version>202611131246</sparkle:version>
-      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <title>0.4</title>
+      <pubDate>Sat, 14 Nov 2026 02:08:58 +0000</pubDate>
+      <sparkle:version>202611131807</sparkle:version>
+      <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Space opens the reference under the pointer, without changing the selection</li></ul>]]></description>
-      <enclosure url="https://github.com/shevenionov/m42-releases/releases/download/v0.3.2-202611131246/M42.zip" length="4524074" type="application/octet-stream" sparkle:edSignature="IFc5aMb+cgoWHBTvh946LWwMO/GBQEZcQyczXZgh29WYbRXOrhGOqQFITEDy+0RBwgHakrsC3tZoXvrrv6x1Dw=="/>
+      <description><![CDATA[<ul><li>Cut a video down to the ranges worth keeping, on a new bar under it</li><li>Drag a range out as its own video</li><li>A glow around the video in the colours of what is playing</li><li>Loop and captions</li><li>Videos open muted (a setting)</li></ul>]]></description>
+      <enclosure url="https://github.com/shevenionov/m42-releases/releases/download/v0.4-202611131807/M42.zip" length="4734135" type="application/octet-stream" sparkle:edSignature="4LIDCscKAjGm8zPdaqNcOhJ3a5tjVXzGvjdfHu4h8PCehjajTituWT9/eY94KCg+ywANvSNDe2v28FDHHHQ5BA=="/>
     </item>
   </channel>
 </rss>
