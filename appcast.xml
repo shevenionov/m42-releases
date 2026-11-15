@@ -3,13 +3,13 @@
   <channel>
     <title>M42</title>
     <item>
-      <title>0.5</title>
-      <pubDate>Sat, 14 Nov 2026 04:07:11 +0000</pubDate>
-      <sparkle:version>202611132005</sparkle:version>
-      <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
+      <title>0.6</title>
+      <pubDate>Sun, 15 Nov 2026 02:08:18 +0000</pubDate>
+      <sparkle:version>202611141806</sparkle:version>
+      <sparkle:shortVersionString>0.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>The Inbox is the library folder itself, and All is gone (an existing Inbox folder's files are moved up when the library opens)</li><li>A drag follows Command-Tab to another app</li></ul>]]></description>
-      <enclosure url="https://github.com/shevenionov/m42-releases/releases/download/v0.5-202611132005/M42.zip" length="4760520" type="application/octet-stream" sparkle:edSignature="kgIazNOAXlccwx6I5bUmf9tXN4epfLeaHFJJOPn/bv/8nWuusf2exSgEs9kw6/+1Hg7B6a9zaa+t50QGhqgsAw=="/>
+      <description><![CDATA[<ul><li>HTML pages are references that run live, filling the viewer</li><li>A saved link opens as the live website</li><li>The m42 command and a skill for AI agents, with m42 current to say what is open</li><li>Sites that animate themselves in no longer get a black picture, and Retake Picture takes it again</li><li>Press Command while scrubbing a video to start a range</li><li>Videos open with sound on, M mutes, and the choice is remembered</li></ul>]]></description>
+      <enclosure url="https://github.com/shevenionov/m42-releases/releases/download/v0.6-202611141806/M42.zip" length="5147728" type="application/octet-stream" sparkle:edSignature="ilLoKcdVQFnf9E62KiX9cQw2fLAG2lINpBiWrbHlsxmCHsRQ+wyJPW0CoNStBX2OIAP7nn7Is61LheLpf4sOBw=="/>
     </item>
   </channel>
 </rss>
