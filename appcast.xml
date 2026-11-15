@@ -3,13 +3,13 @@
   <channel>
     <title>M42</title>
     <item>
-      <title>0.6</title>
-      <pubDate>Sun, 15 Nov 2026 02:08:18 +0000</pubDate>
-      <sparkle:version>202611141806</sparkle:version>
-      <sparkle:shortVersionString>0.6</sparkle:shortVersionString>
+      <title>0.7</title>
+      <pubDate>Sun, 15 Nov 2026 04:09:33 +0000</pubDate>
+      <sparkle:version>202611142007</sparkle:version>
+      <sparkle:shortVersionString>0.7</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>HTML pages are references that run live, filling the viewer</li><li>A saved link opens as the live website</li><li>The m42 command and a skill for AI agents, with m42 current to say what is open</li><li>Sites that animate themselves in no longer get a black picture, and Retake Picture takes it again</li><li>Press Command while scrubbing a video to start a range</li><li>Videos open with sound on, M mutes, and the choice is remembered</li></ul>]]></description>
-      <enclosure url="https://github.com/shevenionov/m42-releases/releases/download/v0.6-202611141806/M42.zip" length="5147728" type="application/octet-stream" sparkle:edSignature="ilLoKcdVQFnf9E62KiX9cQw2fLAG2lINpBiWrbHlsxmCHsRQ+wyJPW0CoNStBX2OIAP7nn7Is61LheLpf4sOBw=="/>
+      <description><![CDATA[<ul><li>Knobs: a page names what is worth tuning, and the inspector shows controls for it, with saved versions and Copy Values</li><li>A colour knob opens M42's own colour picker</li><li>m42 open lets an agent show you a reference in M42</li><li>m42 current reports a page's knob values</li><li>A page's card picture is taken in the page's open layout, not squeezed to the card's size</li></ul>]]></description>
+      <enclosure url="https://github.com/shevenionov/m42-releases/releases/download/v0.7-202611142007/M42.zip" length="5399952" type="application/octet-stream" sparkle:edSignature="le81xQIbIadYDDJAFjO0632ZpyZLjCYUlqq+SolCXAc0tNFUKM4DSHesM9qGQX77BuNphkIO1xAzUVJfPZOjDQ=="/>
     </item>
   </channel>
 </rss>
