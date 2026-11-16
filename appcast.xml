@@ -3,13 +3,13 @@
   <channel>
     <title>M42</title>
     <item>
-      <title>0.8</title>
-      <pubDate>Sun, 15 Nov 2026 05:29:45 +0000</pubDate>
-      <sparkle:version>202611142127</sparkle:version>
-      <sparkle:shortVersionString>0.8</sparkle:shortVersionString>
+      <title>0.9</title>
+      <pubDate>Mon, 16 Nov 2026 17:00:48 +0000</pubDate>
+      <sparkle:version>202611160858</sparkle:version>
+      <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Knobs are removed: pages no longer get controls in the inspector</li><li>The m42 guide and the agent skill no longer mention knobs</li><li>Pages that declare knobs still run, on their own values</li></ul>]]></description>
-      <enclosure url="https://github.com/shevenionov/m42-releases/releases/download/v0.8-202611142127/M42.zip" length="5184249" type="application/octet-stream" sparkle:edSignature="xReYRxoILve4p8mhG/n/NCbCb6XsRMLBVQvxaufRSZ1SBIOeCZvTaOeEVv/BlrvSomWmnnngOWPgn8SYp28TCg=="/>
+      <description><![CDATA[<ul><li>Right-click an open video to copy the frame, save it, or add it to the library beside the video</li><li>Drag an open video's picture out to save the frame as a PNG</li><li>A range's menu can save the range to the library as a video of its own</li><li>Copy Path in a card's menu, for pointing an agent at a file</li></ul>]]></description>
+      <enclosure url="https://github.com/shevenionov/m42-releases/releases/download/v0.9-202611160858/M42.zip" length="5223361" type="application/octet-stream" sparkle:edSignature="C4VHg9E33ivmEbvQnRyLh6GdduCsNVWkraWDSsFxfSbtkXEhfkI4KKSfNewFXIYqZ8ifLPVgm0GeYAzooXYZCg=="/>
     </item>
   </channel>
 </rss>
