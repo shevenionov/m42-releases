@@ -3,13 +3,13 @@
   <channel>
     <title>M42</title>
     <item>
-      <title>0.9.2</title>
-      <pubDate>Mon, 16 Nov 2026 20:42:19 +0000</pubDate>
-      <sparkle:version>202611161240</sparkle:version>
-      <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
+      <title>0.9.3</title>
+      <pubDate>Mon, 23 Nov 2026 22:39:22 +0000</pubDate>
+      <sparkle:version>202611231437</sparkle:version>
+      <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Fixed: the filmstrip under a video shifted slightly as the time changed</li></ul>]]></description>
-      <enclosure url="https://github.com/shevenionov/m42-releases/releases/download/v0.9.2-202611161240/M42.zip" length="5234877" type="application/octet-stream" sparkle:edSignature="7LGZXdrb3AEty25cEyNsyhhldnnZx7YN+wcnz3TQoiNFInvcHPxEXzjGsiNa+UDraPMB278hIZWWIbPEr6jcDg=="/>
+      <description><![CDATA[<ul><li>With a video open, Space now pauses and plays it instead of closing it. Esc closes it</li></ul>]]></description>
+      <enclosure url="https://github.com/shevenionov/m42-releases/releases/download/v0.9.3-202611231437/M42.zip" length="5237072" type="application/octet-stream" sparkle:edSignature="ihUnhXYJJyR3D3JyA/8Jo8TNvoeI+k9BImEHTfmLC6TH8u8nAxWxK+HYCJ/vKUPE+TixZ6ALY9dXoXZChURhDw=="/>
     </item>
   </channel>
 </rss>
